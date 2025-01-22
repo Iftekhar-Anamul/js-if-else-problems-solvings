@@ -1,4 +1,12 @@
-var totalAmt = 1010;
+// friday te sopner bazar
+
+// offer 1: 550 Taka er  shopping e jodi bkash payment koren, 50 taka cashback paben
+
+// offer 2 : 1010 Taka er shopping e Visa card diye payment koren, 100 taka discount paben
+
+// offer 3 :  5500 taka er shopping e Bkash/Nagad e pay korle 100 tka cashback,  visa card diye payment korle 5% discount upto 500
+
+var totalAmt = 15000;
 
 var paymentMethod = "visa";
 
